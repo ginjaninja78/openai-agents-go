@@ -1,0 +1,1 @@
+// manager.go content goes here
